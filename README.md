@@ -6,18 +6,6 @@
 An end-to-end **data analysis** Mega project Showcase Our works in Providing HR Solutions For Companies.  
 This project was developed for **DEPI Round 2 (2024–2025)**, simulating real-world HR data to deliver **actionable insights**.
 
----
-
-## 👥 **Data Analysis Team Members**
-
-✨ Ahmed Wael  
-✨ Hazem Amr  
-✨ Sameh Shahin  
-✨ Omar Abdelhamid  
-✨ Ali Nader  
-✨ Mahmoud Alaa
-
----
 
 ## 🏗 **Project Structure**
 
@@ -37,7 +25,7 @@ This project was developed for **DEPI Round 2 (2024–2025)**, simulating real-w
 ## 📊 **Project Overview**
 
 The **HR Attrition Analysis** project is a cross-functional data analytics initiative designed to uncover **why employees leave companies**.  
-Using simulated data from a fictional tech firm, we walk through the entire data pipeline:  
+Using simulated data from a fictional tech firm, I walk through the entire data pipeline:  
 ✅ Data Cleaning → ✅ Data Modeling → ✅ Visualization → ✅ Business Recommendations.
 
 ---
@@ -90,7 +78,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 🌟 **Why We Were Chosen For The Mega Project**
+## 🌟 **Why This Chosen For The Mega Project**
 
 ✨ **Excellence in Delivery**  
-Our team consistently produced **high-quality, data-driven outputs** across multiple platforms, setting a benchmark in the Data Analysis track.
+consistently produced **high-quality, data-driven outputs** across multiple platforms, setting a benchmark in the Data Analysis track.
