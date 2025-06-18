@@ -3,7 +3,7 @@
 # 🚀 **NezamTrack Mega Project**
 ![image](https://github.com/user-attachments/assets/8f6a0a90-6f00-4a48-9d45-a9d012ab9daf)
 
-An end-to-end **data analysis** Mega project Showcase Our works in Providing HR Solutions For Companies.  
+An end-to-end **data analysis** Mega project Showcase work in Providing HR Solutions For Companies.  
 This project was developed for **DEPI Round 2 (2024–2025)**, simulating real-world HR data to deliver **actionable insights**.
 
 
